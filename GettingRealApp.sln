@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GettingRealApp", "GettingRealApp\GettingRealApp.csproj", "{882B68C9-1283-4CBE-A884-7E7C32FF8529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882B68C9-1283-4CBE-A884-7E7C32FF8529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882B68C9-1283-4CBE-A884-7E7C32FF8529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882B68C9-1283-4CBE-A884-7E7C32FF8529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882B68C9-1283-4CBE-A884-7E7C32FF8529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
