@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GettingRealApp
 {
-    class Players
+    class players
     {
 
         public int Id { get; set; }
@@ -14,7 +14,7 @@ namespace GettingRealApp
         public string Firstname { get; set; }
         public string Position { get; set; }
         public string Adress { get; set; }
-        public Players(int id, string firstname, string lastname, string position, string adress)
+        public players(int id, string firstname, string lastname, string position, string adress)
         {
 
             Adress = adress;
